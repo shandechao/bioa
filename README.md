@@ -52,14 +52,14 @@ docker run -p 3000:3000 yourAppName
 ```bash
 python __test__/upload.test.py
 ```
-### Results
-✅ [user_15] 382x239 - status=200
-✅ [user_16] 210x288 - status=200
-✅ [user_17] 330x797 - status=400
-✅ [user_18] 577x528 - status=200
-✅ [user_19] 595x677 - status=400
-✅ [no_photo] 0x0 - status=400
-✅ [not_image] 100x100 - status=500
+### Results   
+✅ [user_15] 382x239 - status=200  
+✅ [user_16] 210x288 - status=200  
+✅ [user_17] 330x797 - status=400   
+✅ [user_18] 577x528 - status=200   
+✅ [user_19] 595x677 - status=400   
+✅ [no_photo] 0x0 - status=400   
+✅ [not_image] 100x100 - status=500   
 
 ---
 
