@@ -3,7 +3,7 @@
 
 A simple full-stack web app that allows users to:
 
-- Start the device camera in browser
+- Start the device camera in browser (Compatible with both mobile and desktop devices.)
 - Start camera and Capture a photo
 - Upload the photo to the backend
 - Get a link to review the uploaded photo
