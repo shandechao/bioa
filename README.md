@@ -63,7 +63,7 @@ python __test__/upload.test.py
 
 ---
 
-### Validate the result from the browser.
+### Test the validate function using the browser.
 <img width="612" height="108" alt="image" src="https://github.com/user-attachments/assets/2780c878-a76a-4fdc-8477-aae87a583143" />
 
 
